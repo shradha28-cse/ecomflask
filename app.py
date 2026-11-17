@@ -1,6 +1,5 @@
-from flask import flask 
-SHIPPING_MANAGEMENT ="arriving soon"
-@app.route("/")
+from flask to import Flask
 def home():
-  return "welcome"
-  
+    return "welcome"
+    
+
